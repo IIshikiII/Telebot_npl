@@ -2,6 +2,7 @@
 Телебот, который читает текстовые запросы пользователей о пассажиропотоке в метро за какой-то день в произвольном формате 
 
 Ссылка на бота: https://t.me/IshikiIbot
+
 Ссылка на презентацию (также прикреплена в pdf формате): https://docs.google.com/presentation/d/1VVbtuqIIK9Vf3s9PrVYaKr_88_G2VlquKsIlLuFwXrY/edit?usp=sharing
 
 ## Описание файлов
